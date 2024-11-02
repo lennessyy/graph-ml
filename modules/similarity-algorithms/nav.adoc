@@ -3,4 +3,4 @@
 ** xref:cosine-similarity-of-neighborhoods-single-source.adoc[]
 ** xref:jaccard-similarity-of-neighborhoods-batch.adoc[]
 ** xref:jaccard-similarity-of-neighborhoods-single-source.adoc[]
-** see also: xref:gsql-ref:querying:func/vector-functions.adoc[Vector Functions]
+** See also: xref:gsql-ref:querying:func/vector-functions.adoc[Vector Functions] in GSQL [check your product's version]
